@@ -1,0 +1,73 @@
+# Binaries and build directories
+bin/
+build/
+cmake-build*/
+
+# Debug files
+*.log
+*.tmp
+*.stackdump
+
+# IDE files
+.vscode/
+*.code-workspace
+.idea/
+
+# Backup / temp files
+*~
+*.bak
+*.swp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Program output directories
+output/
+received/
+sent/
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debugging symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.dwo
